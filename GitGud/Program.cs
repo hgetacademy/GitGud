@@ -10,7 +10,7 @@ namespace GitGud
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Guddest!");
+            Console.WriteLine("Git Guddness!");
         }
     }
 }
